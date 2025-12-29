@@ -221,3 +221,6 @@ DELETE	/users/:id	Delete a user
 🎯 Final Notes
 
 This project focuses on fundamentals, avoiding unnecessary complexity, and represents a complete and well-structured Junior-level Full Stack CRUD application.
+=======
+# mini-crud-fullstack
+Mini CRUD Full Stack com React, Node.js, Express e SQLite
